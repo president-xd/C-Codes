@@ -4,6 +4,24 @@
 
 using namespace std;
 
+/*
+or creating Music Player, We need some initial things to know:
+
+First of all, Create a project and save it, start typing code in it after that before compiling and running it
+
+You have go to Project (option) and then Project option.
+
+After that go to parameters and then go to Linker and write "-lwinmm" in it. Hit OK
+
+Save the file and compile it.
+
+NOTE:  In the code PlaySound, After TEXT code you can write path for the song and name also.
+
+SONG PATH: When song is in different directory.
+
+SONG NAME: When song is present with source code. 
+
+ */   
 // Function to display the menu
 void displayMenu() {
     cout << "Welcome To Our Music Player" << endl;
