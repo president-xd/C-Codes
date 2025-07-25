@@ -1,2 +1,4 @@
-# C-Codes
-Some codes that I have written in C++
+# CS111L Programming Fundamentals
+
+Codes, that I wrote during my first semester class CS111L Programming Fundamentals.
+
